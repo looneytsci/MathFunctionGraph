@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\FirstControlWork\arm64\Debug\FirstControlWork.vcxproj.AssemblyReference.cache
+\\Mac\Home\Desktop\FirstControlWork\arm64\Debug\FirstControlWork.vcxproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\FirstControlWork\arm64\Debug\FirstControlWork.MathFunctionGraph.resources
+\\Mac\Home\Desktop\FirstControlWork\arm64\Debug\FirstControlWork.vcxproj.GenerateResource.cache
+\\Mac\Home\Desktop\FirstControlWork\arm64\Debug\FirstControlWork.exe
